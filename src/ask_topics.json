@@ -1,0 +1,85 @@
+{
+  "askCortexPage": {
+    "topic": "general",
+    "suggestions": [
+      "Where is our procure-to-pay cycle losing the most time and money?",
+      "How much spend is off contract, and where?",
+      "Which suppliers hurt us most on delivery and invoice quality?",
+      "What is keeping our touchless rate down?",
+      "How much early-payment discount are we leaving on the table?",
+      "What would we lose by reading SAP from BDC instead of S/4HANA tables?"
+    ]
+  },
+  "pages": {
+    "overview": {
+      "topic": "overview",
+      "suggestions": [
+        "Where is procure-to-pay performance weakest, and why?",
+        "How have contract compliance, touchless rate and on-time payment trended?"
+      ]
+    },
+    "requisitions": {
+      "topic": "requisitions",
+      "suggestions": [
+        "Which buying channels have the slowest approvals?",
+        "Where did sourcing deliver the most savings?"
+      ]
+    },
+    "purchase-orders": {
+      "topic": "purchasing",
+      "suggestions": [
+        "Where is maverick spend concentrated, and with which suppliers?",
+        "Which companies raise the most after-the-fact POs?"
+      ]
+    },
+    "supplier-delivery": {
+      "topic": "delivery",
+      "suggestions": [
+        "Which suppliers miss OTIF most, and by how many days?",
+        "Do late confirmations on the portal predict late deliveries?"
+      ]
+    },
+    "invoices": {
+      "topic": "invoices",
+      "suggestions": [
+        "Which capture channels hold back the touchless rate?",
+        "How long do invoices take from receipt to payment by company?"
+      ]
+    },
+    "exceptions": {
+      "topic": "exceptions",
+      "suggestions": [
+        "What are the main invoice exception types and how long do they take to resolve?",
+        "How much did duplicate checks prevent, and how much slipped through?"
+      ]
+    },
+    "payables": {
+      "topic": "payables",
+      "suggestions": [
+        "How is DPO trending by company?",
+        "How much is overdue or on payment block right now?"
+      ]
+    },
+    "payments": {
+      "topic": "payments",
+      "suggestions": [
+        "How much early-payment discount are we losing, and why?",
+        "Are we paying suppliers early without taking a discount?"
+      ]
+    },
+    "suppliers": {
+      "topic": "suppliers",
+      "suggestions": [
+        "Which high-risk suppliers carry the most spend?",
+        "Where are we exposed to sanctioned or financially stressed suppliers?"
+      ]
+    },
+    "data-sources": {
+      "topic": "sources",
+      "suggestions": [
+        "What does each selected source contribute?",
+        "What do we lose by reading SAP from BDC or BW instead of S/4HANA?"
+      ]
+    }
+  }
+}
